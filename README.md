@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá! 👋 Eu sou Cassio Ribeiro
 
-<!--
-**GodPromettheus/GodPromettheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Hoje estou trabalhando como Trade Marketing em migração para UX/UI Design 
+- 📖 Estudando JavaScript
+- 💬 Contate-me pelo LinkedIn: https://www.linkedin.com/in/cassiosribeiro/
+- ⚡ Fato Engraçado: Desenho bem mau e gosto 😂 
+ <!--
+ <div>
+ <a href="https://github.com/GodPromettheus/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GodPromettheus&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/GodPromettheus/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GodPromettheus&repo=convoychat" />
+</a>
+</div>
 -->
